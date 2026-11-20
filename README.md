@@ -41,6 +41,12 @@ My projects focus on cybersecurity, Linux administration, Windows environments, 
 
 ### 1. Packet Sniffer project
 **[Packet Sniffer](https://github.com/brianjc95/Cybersecurity-Portfolio/blob/2790e7be459240d3d45a12d5ea02b346881e2bba/Packet%20sniffer.py)**
+- Developed a Python-based packet sniffer using Scapy to capture and analyze TCP network traffic.
+- Monitors source and destination IP addresses, ports, and protocol information.
+- Tracks packet activity by source IP address within a 10-second time window.
+- Generates alerts when a source IP exceeds the configured packet threshold.
+- Exports captured packet information and alerts into CSV reports.
+- Demonstrates network traffic analysis, Python scripting, and basic rate-based anomaly detection.
 
 ### 2. Log Analyzer Project
 **[Log Analyzer](https://github.com/brianjc95/python-portfolio/blob/0d9d5fc514b9154be19a918b42472a98e4c04c6a/log%20analyzer.py)**
