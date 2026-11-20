@@ -30,11 +30,13 @@ My projects focus on cybersecurity, Linux administration, Windows environments, 
 - Windows and Linux security monitoring.
 
 ### 4. Cloud Computing & AWS
-**[AWS Cloud Projects](https://github.com/brianjc95/REPLACE-WITH-REPOSITORY-NAME)**
+**[AWS Scripts](https://github.com/brianjc95/AWS-Examples-course-cli-environment)**
 
-- AWS infrastructure and resource provisioning.
-- Cloud networking and IAM.
-- Cloud security and architecture exercises.
+- Built an AWS learning environment to practice cloud infrastructure provisioning and resource management.
+- Worked with Terraform to explore infrastructure as code (IaC).
+- Practiced configuring AWS services and managing cloud resources through the command line.
+- Developed familiarity with Terraform configuration files, providers, and resource definitions.
+- Demonstrates AWS fundamentals, cloud infrastructure concepts, CLI usage, and infrastructure automation.
 
 # Short Python projects
 ## Projects
