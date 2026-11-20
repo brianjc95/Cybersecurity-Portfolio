@@ -42,7 +42,8 @@ My projects focus on cybersecurity, Linux administration, Windows environments, 
 ### 1. Packet Sniffer project
 **[Packet Sniffer](https://github.com/brianjc95/Cybersecurity-Portfolio/blob/2790e7be459240d3d45a12d5ea02b346881e2bba/Packet%20sniffer.py)**
 
-
+### 2. Log Analyzer Project
+**[Log Analyzer](https://github.com/brianjc95/python-portfolio/blob/0d9d5fc514b9154be19a918b42472a98e4c04c6a/log%20analyzer.py)
 
 ## Technical Skills
 
