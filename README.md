@@ -44,6 +44,12 @@ My projects focus on cybersecurity, Linux administration, Windows environments, 
 
 ### 2. Log Analyzer Project
 **[Log Analyzer](https://github.com/brianjc95/python-portfolio/blob/0d9d5fc514b9154be19a918b42472a98e4c04c6a/log%20analyzer.py)**
+- Developed a Python script to monitor SSH authentication logs in real time.
+- Tracks failed login attempts by source IP address and username.
+- Detects repeated login attempts within a 60-second window.
+- Generates alerts for potentially suspicious login activity.
+- Exports login activity and detection results into CSV reports.
+- Demonstrates Python scripting, log analysis, and security monitoring.
 
 ## Technical Skills
 
