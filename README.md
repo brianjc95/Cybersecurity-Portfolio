@@ -7,7 +7,7 @@ My projects focus on cybersecurity, Linux administration, Windows environments, 
 ## Projects
 
 ### 1. Linux Security & Bash Scripting
-**[Failed SSH Login Monitoring]((https://github.com/brianjc95/failed-login-monitor)])**
+**[Failed SSH Login Monitoring](https://github.com/brianjc95/failed-login-monitor)**
 
 - Developed a Bash script to identify and analyze failed SSH login attempts.
 - Analyzes usernames, source IP addresses, and login activity.
