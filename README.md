@@ -15,7 +15,7 @@ My projects focus on cybersecurity, Linux administration, Windows environments, 
 - Demonstrates Linux administration, log analysis, and scripting.
 
 ### 2. Windows Administration & Active Directory
-**[Active Directory Home Lab](https://github.com/brianjc95/Active-Directory-and-Linux-Server-Integration/blob/main/README.md))**
+**[Active Directory Home Lab](https://github.com/brianjc95/Active-Directory-and-Linux-Server-Integration/blob/main/README.md)**
 
 - Windows Server and Active Directory administration.
 - User and group management.
