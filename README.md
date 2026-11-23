@@ -17,10 +17,12 @@ My projects focus on cybersecurity, Linux administration, Windows environments, 
 ### 2. Windows Administration & Active Directory w/ Ubuntu Integration
 **[Active Directory / Ubuntu Home Lab](https://github.com/brianjc95/Active-Directory-and-Linux-Server-Integration/blob/main/README.md)**
 
-- Windows Server and Active Directory administration.
-- User and group management.
-- Group Policy configuration.
-- Domain-joined Windows client environment.
+- Deployed and administered a Windows Server Active Directory domain, including organizational units, user accounts, security groups, and Group Policy.
+- Configured and joined a Windows 11 client to the domain for centralized authentication and administration.
+- Integrated an Ubuntu Server into the Windows AD environment using Realmd, SSSD, and Kerberos.
+- Configured AD-based Linux authentication and restricted server login access through Active Directory security groups.
+- Implemented role-based Linux administrative access by mapping an AD security group to sudo privileges.
+- Tested access controls to verify authorized users could log in while unauthorized users and non-administrative users were restricted appropriately.
 
 ### 3. Security Monitoring
 **[Wazuh Security Monitoring Lab](https://github.com/brianjc95/REPLACE-WITH-REPOSITORY-NAME)**
