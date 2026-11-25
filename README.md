@@ -25,9 +25,15 @@ My projects focus on cybersecurity, Linux administration, Windows environments, 
 - Tested access controls to verify authorized users could log in while unauthorized users and non-administrative users were restricted appropriately.
 
 ### 3. Server Monitoring
-**[Windows Server Monitoring Lab](https://github.com/brianjc95/Windows-Monitoring-Project/blob/main/README.md)**
+**[Windows Server Monitoring Lab](https://github.com/brianjc95/Windows-Monitoring-Project/tree/main)**
 
-
+- Developed a PowerShell-based Windows Server monitoring tool across four iterations, expanding from basic resource monitoring to full server health checks.
+- Automated monitoring of CPU, memory, disk utilization, and six critical Active Directory services.
+- Implemented Windows event log analysis to identify critical and error-level events across System and Application logs.
+- Built network health checks to validate gateway connectivity, external IP access, DNS resolution, and Active Directory DNS service discovery.
+- Implemented automated health classification with HEALTHY, WARNING, REVIEW, CRITICAL, and NOT FOUND statuses.
+- Generated timestamped CSV and TXT reports to document server health and support troubleshooting.
+- Tested monitoring logic under healthy, warning, critical, and missing-service conditions in a virtualized Active Directory lab.
 
 ### 4. Cloud Computing & AWS
 **[AWS Scripts](https://github.com/brianjc95/AWS-Examples-course-cli-environment)**
