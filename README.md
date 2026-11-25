@@ -24,12 +24,10 @@ My projects focus on cybersecurity, Linux administration, Windows environments, 
 - Implemented role-based Linux administrative access by mapping an AD security group to sudo privileges.
 - Tested access controls to verify authorized users could log in while unauthorized users and non-administrative users were restricted appropriately.
 
-### 3. Security Monitoring
-**[Wazuh Security Monitoring Lab](https://github.com/brianjc95/REPLACE-WITH-REPOSITORY-NAME)**
+### 3. Server Monitoring
+**[Windows Server Monitoring Lab](https://github.com/brianjc95/Windows-Monitoring-Project/blob/main/README.md)**
 
-- SIEM deployment and configuration.
-- Endpoint monitoring and security event analysis.
-- Windows and Linux security monitoring.
+
 
 ### 4. Cloud Computing & AWS
 **[AWS Scripts](https://github.com/brianjc95/AWS-Examples-course-cli-environment)**
