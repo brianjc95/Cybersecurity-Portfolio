@@ -76,8 +76,8 @@ My projects focus on cybersecurity, Linux administration, Windows environments, 
 
 ## Certifications
 
-- CompTIA Security+
-- CompTIA CySA+
+- CompTIA Security+ (2025-2028)
+- CompTIA CySA+ (2025-2028
 
 ## About Me
 
